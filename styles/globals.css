@@ -1,8 +1,1 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-/* Optional: Smooth transition for scaling hover */
-* {
-  transition: all 0.2s ease-in-out;
-}
+@import "tailwindcss";
